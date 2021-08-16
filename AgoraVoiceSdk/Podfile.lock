@@ -1,0 +1,28 @@
+PODS:
+  - AGEVideoLayout (1.0.3)
+  - AgoraAudio_iOS (3.5.0.1)
+  - AgoraMediaPlayer_iOS (1.2.2)
+  - Floaty (4.2.0)
+
+DEPENDENCIES:
+  - AGEVideoLayout (~> 1.0.2)
+  - AgoraAudio_iOS (= 3.5.0.1)
+  - AgoraMediaPlayer_iOS (= 1.2.2)
+  - Floaty (~> 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - AGEVideoLayout
+    - AgoraAudio_iOS
+    - AgoraMediaPlayer_iOS
+    - Floaty
+
+SPEC CHECKSUMS:
+  AGEVideoLayout: db06e3eedfa1f72c6dfbce9e79b09621002e8197
+  AgoraAudio_iOS: ddff7c833c3720199e793baef76cf63930e2ed06
+  AgoraMediaPlayer_iOS: 40855b4c7042443faf5263e61e71f1a8ae70558a
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+
+PODFILE CHECKSUM: 21da25cd06c1032bff0aaeb62f9273825d494e03
+
+COCOAPODS: 1.10.1
