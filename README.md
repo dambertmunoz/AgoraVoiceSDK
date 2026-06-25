@@ -37,3 +37,9 @@ Select the `DemoVoice` app target or the framework scheme from Xcode.
 - Treat `AgoraManager` as the seam for mocking voice-session behavior in tests.
 - Do not commit production Agora credentials or temporary tokens to the repo.
 - For production use, token generation should live on a trusted backend.
+
+## Author
+
+Dambert Muñoz
+
+Email: [dmsantillana2705@gmail.com](mailto:dmsantillana2705@gmail.com)
